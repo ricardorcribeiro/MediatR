@@ -8,10 +8,10 @@ namespace VemDeZap.Domain.Commands.Usuario.AdicionarUsuario
 {
     public class AdicionarUsuarioHandler : Notifiable, IRequestHandler<AdicionarUsuarioRequest, Response>
     {
-        private readonly IrepositoryUsuario _repositoryUsuario;
+        private readonly IRepositoryUsuario _repositoryUsuario;
         private readonly IMediator _mediator;
 
-        public AdicionarUsuarioHandler(IrepositoryUsuario repositoryUsuario, IMediator mediator)
+        public AdicionarUsuarioHandler(IRepositoryUsuario repositoryUsuario, IMediator mediator)
         {
             _repositoryUsuario = repositoryUsuario;
             _mediator = mediator;

@@ -4,7 +4,7 @@ using VemDeZap.Domain.Interfaces.Repositories.Base;
 
 namespace VemDeZap.Domain.Interfaces.Repositories
 {
-    public interface IrepositoryUsuario : IRepositoryBase<Usuario, Guid>
+    public interface IRepositoryUsuario : IRepositoryBase<Usuario, Guid>
     {
     }
 }
