@@ -15,7 +15,6 @@ C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\obj\Debug\netcoreapp3.1
 C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
 C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
 C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache
-C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CopyComplete
 C:\Users\ricar\Desktop\Estudos\MediatR\Shopping\Shopping\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

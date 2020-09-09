@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "M2Csk4uHXlyODiS8BAbZArX1F8N7dxSKp42Gwf4TT3Wmap6HnBqmm7QB9qYURsi6+nn6hd6ZbFyrS7tX+7iz1Q==",
+  "dgSpecHash": "Ufp/ptJ5tBZLEt1qMUvyWilYKinOen3T6QdxeTZ6RcIP70ftmJjP6Tm9JD6/jVhHXidEfqsG6xlxM6zw/UOLjg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ricar\\Desktop\\Estudos\\MediatR\\Shopping\\Shopping\\Shopping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
-    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
 }
